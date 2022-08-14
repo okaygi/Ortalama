@@ -26,6 +26,7 @@ public static void main(String[] args) {
     boolean ortalama = toplam >60;
 
      System.out.println(ortalama == true ? "Sınıfı Geçti" : "Sınıfta Kaldı");
+    
 
 
 }
